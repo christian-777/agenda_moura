@@ -8,9 +8,9 @@
 	</head>
 	<body>
 		<div style="text-align: center;"> 
-			<a href="index.php">Cadastrar entidade na agenda</a>
+			<a href="../index.php">Cadastrar entidade na agenda</a>
 			<div> || </div>
-			<a href="tabela.php">lista dos cadastrados</a>
+			<a href="php/tabela.php">lista dos cadastrados</a>
 		</div>
 		<br />
 		<br />
