@@ -19,12 +19,6 @@
 								WHERE
 								id_entidade='$id'
 								";
-	echo "nome='$nome',
-								telefone='$telefone',
-								endereco='$endereco',
-								numero='$numero',
-								bairro='$bairro',
-								cidade='$cidade'";
 	mysqli_query($con, $update) or die(mysqli_error($con));
 	mysqli_close($con);
 ?> 

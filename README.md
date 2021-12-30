@@ -1,6 +1,4 @@
 # agenda_moura
-
-A pagina web foi upada no heroku e foi anexada a um banco de dados virtual e pode ser acessada em https://agenda-moura.herokuapp.com/ .
 Quando forem testar o sistema em um servidor local lembre-se de alterar os dados na pagina "conexao.php" do sistema para o host, usuario e senha do seervidor local.
 
 Guia de acesso:
