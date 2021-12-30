@@ -33,6 +33,7 @@ $(document).ready(function(){
 			
 			$.post("cadastra_agenda.php", dados, function(v){
 				alert("Cadastrado com sucesso!!");
+				$("#mensagem").html("");
 				$("#reset").click();
 			});
 		}
